@@ -1,1 +1,1 @@
-# HighThroughputCompting
+# HighThroughputComputing
